@@ -1,0 +1,23 @@
+#marcas h3, h4{
+	line-height: 45px;
+	justify-content: center;
+	text-align: center;
+}
+
+#marcas .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#marcas article{
+	line-height: 45px;
+	margin: 35px;
+}
+
+#marcas img{
+	line-height: 45px;
+	justify-content: center;
+	width: 100%;
+	max-width: 300px; 
+}
